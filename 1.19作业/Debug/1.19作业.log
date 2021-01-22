@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\lenovo\Source\Repos\1.19作业\源.c(118,12): error C2057: 应输入常量表达式
+C:\Users\lenovo\Source\Repos\1.19作业\源.c(118,12): error C2466: 不能分配常量大小为 0 的数组

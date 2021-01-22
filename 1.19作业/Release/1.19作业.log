@@ -1,0 +1,9 @@
+﻿  源.c
+C:\Users\lenovo\Source\Repos\1.19作业\源.c(67,16): warning C4013: “rand”未定义；假设外部返回 int
+C:\Users\lenovo\Source\Repos\1.19作业\源.c(92,7): warning C4013: “srand”未定义；假设外部返回 int
+C:\Users\lenovo\Source\Repos\1.19作业\源.c(92,22): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  1.19作业.vcxproj -> C:\Users\lenovo\Source\Repos\1.19作业\Release\1.19作业.exe
